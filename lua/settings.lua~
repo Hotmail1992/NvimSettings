@@ -1,0 +1,11 @@
+------------------------------------------
+--- ОБЩИЕ НАСТРОЙКИ
+------------------------------------------
+local opt = vim.opt
+
+	opt.number = true
+	opt.encoding = 'utf-8'
+	opt.fileencoding = 'utf-8'
+	opt.modifiable = true
+	opt.filetype plugin indent = on
+	opt.syntax = on
